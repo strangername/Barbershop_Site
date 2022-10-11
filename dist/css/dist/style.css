@@ -454,7 +454,7 @@ h6 {
   position: relative;
   width: 100%;
   height: 1000px;
-  background-image: url("/img/BG_OurServices.jpg");
+  background-image: url("../../img/BG_OurServices.jpg");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: 100% auto;
@@ -641,7 +641,7 @@ h6 {
   align-items: center;
   justify-content: center;
   position: absolute;
-  content: url("/img/icon/arrow-left.svg");
+  content: url("../../img/icon/arrow-left.svg");
   box-sizing: border-box;
   width: 70px;
   height: 70px;
@@ -655,7 +655,7 @@ h6 {
   align-items: center;
   justify-content: center;
   position: absolute;
-  content: url("/img/icon/arrow-right.svg");
+  content: url("../../img/icon/arrow-right.svg");
   box-sizing: border-box;
   width: 70px;
   height: 70px;
